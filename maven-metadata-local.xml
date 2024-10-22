@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.example.app</groupId>
+  <artifactId>Spring-Intro-Employee</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20241022143052</lastUpdated>
+  </versioning>
+</metadata>
